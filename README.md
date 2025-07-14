@@ -1,9 +1,9 @@
 # internship_task_8
 
-##Task 8 :Identify and Remove Suspicious Browser Extensions
-##Objective: Understand the role of VPNs in protecting privacy and secure communication.
-##Tools:Free VPN client (ProtonVPN free tier, Windscribe free)
-##Deliverables: Report describing VPN setup steps and connection status screenshot.
+## Task 8 :Identify and Remove Suspicious Browser Extensions
+### Objective: Understand the role of VPNs in protecting privacy and secure communication.
+### Tools:Free VPN client (ProtonVPN free tier, Windscribe free)
+### Deliverables: Report describing VPN setup steps and connection status screenshot.
 
 Hints/Mini Guide:
 1.Choose a reputable free VPN service and sign up.
@@ -15,12 +15,12 @@ Hints/Mini Guide:
 7.Research VPN encryption and privacy features.
 8.Write a summary on VPN benefits and limitations.
 
-##Outcome: Hands-on experience with VPNs and understanding of privacy tools.
+## Outcome: Hands-on experience with VPNs and understanding of privacy tools.
 
-##VPN: Virtual Private Network
+# VPN: ## Virtual Private Network
 A VPN (Virtual Private Network) is a technology that creates a secure, encrypted connection between your device (like a phone or laptop) and the internet.
 
-##PROTON VPN
+## PROTON VPN
 
     SIGN IN TO PROTON VPN
     GET STARTED
@@ -48,13 +48,13 @@ A VPN (Virtual Private Network) is a technology that creates a secure, encrypted
       Click Remove next to each one.
 
  
-##RESEARCH
+## RESEARCH
     Proton was born in Switzerland in 2014 when a team of scientists who met at CERN (the European Organization for Nuclear Research) decided to build a better internet where privacy is the default.
  
-###Encryption used: Proton VPN uses AES-256 and ChaCha20 encryption
-###Protocols used: OpenVPN and WireGuard.
+### Encryption used: Proton VPN uses AES-256 and ChaCha20 encryption
+### Protocols used: OpenVPN and WireGuard.
  
-###SWITCH TO PROTON VPN PRIVACY:
+### SWITCH TO PROTON VPN PRIVACY:
 
 
     It has features like:
@@ -68,9 +68,9 @@ A VPN (Virtual Private Network) is a technology that creates a secure, encrypted
           split tunneling
 		
  
-#VPN BENEFITS AND LIMITATIONS:
+# VPN BENEFITS AND LIMITATIONS:
 
-##Benefits of VPN
+## Benefits of VPN
 
       1. Encrypts Internet Traffic
         •	VPNs encrypt your data (usually with AES-256) so third parties — like ISPs, hackers, or government agencies — can't see what you're doing online.
@@ -96,7 +96,7 @@ A VPN (Virtual Private Network) is a technology that creates a secure, encrypted
       9. Multi-Device Protection
           •	Most VPN services support multiple devices: PCs, phones, tablets, routers, etc.
 
-##Limitations of VPN
+## Limitations of VPN
 
       1. Slower Internet Speeds
         •	Due to encryption and rerouting of traffic, your browsing or download speed can drop, especially on free VPNs or distant servers.
